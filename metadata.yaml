@@ -1,0 +1,31 @@
+_repo: The-Sinn-Fein-rebellion-As-I-Saw-It._43470
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43470-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Norway, Hamilton, Mrs.
+    aliases:
+    - Gadsden, Mary Louisa
+    - Norway, Arthur Hamilton, Mrs.
+    - Norway, Mary Louisa
+    - Norway, Mrs. Hamilton
+    deathdate: 1932
+    gutenberg_agent_id: '42229'
+    url: http://www.gutenberg.org/2009/agents/42229
+description: ''
+gutenberg_issued: '2013-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43470'
+  lccn: a16001424
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ireland -- History -- Easter Rising, 1916 -- Personal narratives'
+title: The Sinn Fein Rebellion as I Saw It.
+url: http://www.gutenberg.org/ebooks/43470
